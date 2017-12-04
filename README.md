@@ -1,3 +1,21 @@
+## Word on this project
+
+This repo is a starter kit based created with Cory House's [Javascript Manifesto](https://www.youtube.com/watch?v=QGCWal_JWek) in mind.
+
+It uses a LARGE portion of the create-react-app cli (see below).
+
+## What has been added to create-react-app ?
+
+Basically, the only thing this starter kit add is the support of Sass/Scss.
+
+
+
+----
+
+
+
+## Create-react-app Doc
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

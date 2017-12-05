@@ -1,12 +1,13 @@
 ## Word on this project
 
-This repo is a starter kit based created with Cory House's [Javascript Manifesto](https://www.youtube.com/watch?v=QGCWal_JWek) in mind.
+This repo is a derived version of my personal react starter kit (created with Cory House's [Javascript Manifesto](https://www.youtube.com/watch?v=QGCWal_JWek) in mind).
 
 It uses a LARGE portion of the create-react-app cli (see below).
 
 ## What has been added to create-react-app ?
 
-Basically, the only thing this starter kit add is the support of Sass/Scss.
+- Support of Sass/Scss.
+- Flow (npm run flow OR via the nuclide IDE)
 
 
 

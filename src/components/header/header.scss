@@ -8,19 +8,5 @@ header {
   height: 50px;
 
   background: $headerColor;
-
-  ul {
-    display: flex;
-    list-style-type: none;
-  }
-
-  .headerLink {
-    margin:0 16px;
-    color: $headerLinkColor;
-    text-decoration: none;
-
-    &active {
-      color: $headerLinkColor;
-    }
-  }
+  color: #eee;
 }
